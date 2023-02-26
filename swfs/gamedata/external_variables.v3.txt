@@ -1,5 +1,5 @@
 activity.point.display.enabled=true
-ads.domain=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs
+ads.domain=cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs
 app.review.triggers=purchase,respect
 app.review.url.android=
 app.review.url.ios=itms-apps://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?type=Purple+Software&id=794866182

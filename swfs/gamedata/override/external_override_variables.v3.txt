@@ -1529,7 +1529,7 @@ landing.view.xmas2013xmasrare2.widget=generic
 landing.view.xmas2015CommunityGoal.widget=communitygoalvsmode
 
 
-ads.domain=${flash.client.url}
+ads.domain=https://hubbe.biz/
 roomenterad.habblet.enabled=false
 
 diamonds.enabled=true

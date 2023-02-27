@@ -1259,7 +1259,7 @@ navigator.thumbnail.url_base=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/photo
 
 productdata.load.url=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gamedata/productdata.txt
 external.texts.txt=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gamedata/external_flash_texts.txt
-external.override.variables.txt=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gamedata/override/external_override_variables.txt
+external.override.variables.txt=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gamedata/override/external_override_variables.v3.txt
 flash.client.url=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gordon/PRODUCTION-201611291003-338511768/
 furnidata.load.url=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gamedata/furnidata.xml
 external.variables.txt=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gamedata/external_variables.txt

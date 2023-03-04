@@ -1254,8 +1254,8 @@ zoom.enabled=1
 landing.view.competition.hof.highscoreranking.rankdesc.leader=TOP 10 richest players
 landing.view.competition.hof.highscoreranking.rankdesc.leader.other=almost richest
 landing.view.competition.hof.points=%points% VIP Points
-stories.image_url_base=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/photos/index.php?photoId=
-navigator.thumbnail.url_base=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/photos/images/%photoId%.png
+stories.image_url_base=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/camera_photos/
+navigator.thumbnail.url_base=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/camera_photos/%photoId%
 
 productdata.load.url=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gamedata/productdata.txt
 external.texts.txt=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gamedata/external_flash_texts.txt

@@ -1,8 +1,8 @@
 {
     "image.library.notifications.url": "${image.library.url}notifications/%image%.png",
     "achievements.images.url": "${image.library.url}Quests/%image%.png",
-    "camera.url": "https://hubbe.biz/photos/photos",
-    "thumbnails.url": "https://hubbe.biz/photos/photos/thumbnail/%thumbnail%.png",
+    "camera.url": "https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn@latest/camera_photos/",
+    "thumbnails.url": "https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn@latest/camera_photos/%thumbnail%.png",
     "url.prefix": "https://hubbe.biz",
     "habbopages.url": "${url.prefix}/",
     "group.homepage.url": "${url.prefix}/groups/%groupid%/id",

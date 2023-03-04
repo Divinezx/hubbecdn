@@ -1145,7 +1145,7 @@
     "catalog.marketplace.offer_details.price_development": "Evolu\u00e7\u00e3o do Pre\u00e7o",
     "catalog.marketplace.offer_details.trade_volume": "Volume de Neg\u00f3cios",
     "catalog.marketplace.operation_failed.topic": "Problemas com a oferta",
-    "catalog.marketplace.redeem.get_credits": "%count% oferta(s) vendida(s). Diamantes para resgatar: %credits%",
+    "catalog.marketplace.redeem.get_credits": "%count% oferta(s) vendida(s). Clique em Gerar Diamantes para obtê-los. Diamantes para resgatar: %credits%",
     "catalog.marketplace.redeem.no_sold_items": "Voc\u00ea n\u00e3o tem nenhum item listado vendido. Ao colocar algo \u00e0 venda, volte aqui para conferir o status da sua oferta e ent\u00e3o confira a sua Janela de Lucros para resgatar os seus Diamantes. Coloque seus itens \u00e0 venda atrav\u00e9s do seu Invent\u00e1rio.",
     "catalog.marketplace.search_advanced": "Avan\u00e7ado",
     "catalog.marketplace.search_by_activity": "Por ofertas",

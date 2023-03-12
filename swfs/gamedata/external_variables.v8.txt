@@ -1064,6 +1064,7 @@ navigator.colorlimit.yellow=50
 navigator.default.view=public
 navigator.default_tab=official
 navigator.settings.show_room_styles=true
+new.navigator.official.room.thumbnails.in.amazon=true
 navigator.thumbnail.url_base=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/c_images/navigator-thumbnail/
 stories.base_url=
 nest.breeding.bear.enabled=true

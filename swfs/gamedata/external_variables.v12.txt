@@ -117,7 +117,7 @@ effects.reactivate.on.room.entry=true
 email.verification.url=${url.prefix}/settings/email
 embed.showInRoomInfo=true
 eventinfo.enabled=false
-external.figurepartlist.txt=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gamedata/figuredata.xml
+external.figurepartlist.txt=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gamedata/figuredata_20230701.xml
 extra_data_batches_enabled=true
 extra_data_service_url=http://extradata.habbo.com/public/furni/
 feed.badge_decorations.album=Feed_Badges
@@ -1263,7 +1263,7 @@ flash.client.url=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gordon/PRODU
 furnidata.load.url=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gamedata/furnidata.xml
 external.variables.txt=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gamedata/external_variables.txt
 external.override.texts.txt=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gamedata/override/external_flash_override_texts.txt
-external.figurepartlist.txt=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gamedata/figuredata.xml
+external.figurepartlist.txt=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gamedata/figuredata_20230701.xml
 
 client.hotel_view.image=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/c_images/reception/nghtest.png
 landing.view.background_back.uri=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/c_images/reception/meter_level_1_vip_icon_lympix.png

@@ -1560,14 +1560,14 @@ disabled.custom.chat.styles=1,2,8,18,23,28,30,31,32,33,34,35
 
 flash.dynamic.download.name.template=%typeid%.swf
 flash.dynamic.download.url=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/dcr/hof_furni/
-flash.dynamic.avatar.download.configuration=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gamedata/figuremap.xml
+flash.dynamic.avatar.download.configuration=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gamedata/figuremap_20230701.xml
 group.badge.url=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/habbo-imaging/badge/%imagerdata%.gif
 habbopages.url=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gamedata/habbopages/
 
 flash.client.url=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gordon/PRODUCTION-201611291003-338511768/
 external.texts.txt=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gamedata/external_flash_texts.txt
 external.override.texts.txt=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gamedata/override/external_flash_override_texts.txt
-external.override.variables.txt=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gamedata/override/external_override_variables.txt
+external.override.variables.txt=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gamedata/override/external_override_variables.v4.txt
 productdata.load.url=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gamedata/productdata.txt
 furnidata.load.url=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gamedata/furnidata.xml
 image.format=png

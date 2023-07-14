@@ -1272,7 +1272,6 @@ landing.view.background_front.uri=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/
 landing.view.background_gradient.uri=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/c_images/reception/background_gradient_ngh.png
 landing.view.background_gradient_top.uri=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/c_images/reception/background_gradient_ngh.png
 landing.view.background_horizon.uri=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/c_images/reception/meter_level_1_vip_icon_lympix.png
-landing.view.background_hotel_top.uri=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/c_images/reception/logo_ws.png
 landing.view.background_hotel_top.uri=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/c_images/reception/jungle16_background_hotel_top.png
 landing.view.background_left.uri=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/c_images/reception/hbcleft2.png
 landing.view.background_right.uri=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/c_images/reception/background_right_hbc.png

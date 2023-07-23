@@ -6272,59 +6272,6 @@
                     "hexCode": "8791f0"
                 },
                 {
-                    "id": 990000167,
-                    "gender": "M",
-                    "club": 0,
-                    "colorable": true,
-                    "selectable": true,
-                    "preselectable": false,
-                    "sellable": false,
-                    "parts": [
-                        {
-                            "id": 3468,
-                            "type": "ch",
-                            "colorable": true,
-                            "index": 0,
-                            "colorindex": 1
-                        },
-                        {
-                            "id": 3468,
-                            "type": "ls",
-                            "colorable": true,
-                            "index": 0,
-                            "colorindex": 1
-                        },
-                        {
-                            "id": 3468,
-                            "type": "rs",
-                            "colorable": true,
-                            "index": 0,
-                            "colorindex": 1
-                        },
-                        {
-                            "id": 3469,
-                            "type": "ch",
-                            "colorable": true,
-                            "index": 1,
-                            "colorindex": 2
-                        },
-                        {
-                            "id": 3469,
-                            "type": "ls",
-                            "colorable": true,
-                            "index": 1,
-                            "colorindex": 2
-                        },
-                        {
-                            "id": 3469,
-                            "type": "rs",
-                            "colorable": true,
-                            "index": 1,
-                            "colorindex": 2
-                        }
-                    ]
-                },
-                {
                     "id": 1337,
                     "gender": "M",
                     "club": 0,
@@ -83651,6 +83598,59 @@
                             "colorable": false,
                             "index": 0,
                             "colorindex": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 990000167,
+                    "gender": "M",
+                    "club": 0,
+                    "colorable": true,
+                    "selectable": true,
+                    "preselectable": false,
+                    "sellable": false,
+                    "parts": [
+                        {
+                            "id": 3468,
+                            "type": "ch",
+                            "colorable": true,
+                            "index": 0,
+                            "colorindex": 1
+                        },
+                        {
+                            "id": 3468,
+                            "type": "ls",
+                            "colorable": true,
+                            "index": 0,
+                            "colorindex": 1
+                        },
+                        {
+                            "id": 3468,
+                            "type": "rs",
+                            "colorable": true,
+                            "index": 0,
+                            "colorindex": 1
+                        },
+                        {
+                            "id": 3469,
+                            "type": "ch",
+                            "colorable": true,
+                            "index": 1,
+                            "colorindex": 2
+                        },
+                        {
+                            "id": 3469,
+                            "type": "ls",
+                            "colorable": true,
+                            "index": 1,
+                            "colorindex": 2
+                        },
+                        {
+                            "id": 3469,
+                            "type": "rs",
+                            "colorable": true,
+                            "index": 1,
+                            "colorindex": 2
                         }
                     ]
                 },

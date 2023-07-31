@@ -1560,7 +1560,7 @@ disabled.custom.chat.styles=1,2,8,18,23,28,30,31,32,33,34,35
 
 flash.dynamic.download.name.template=%typeid%.swf
 flash.dynamic.download.url=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/dcr/hof_furni/
-flash.dynamic.avatar.download.configuration=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gamedata/figuremap_20230710.xml
+flash.dynamic.avatar.download.configuration=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gamedata/figuremap_20230731.v2.xml
 group.badge.url=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/habbo-imaging/badge/%imagerdata%.gif
 habbopages.url=https://cdn.jsdelivr.net/gh/Divinezx/hubbecdn/swfs/gamedata/habbopages/
 

@@ -181,7 +181,7 @@
   <effect id="175" lib="RedAirplane" type="fx" revision="59200"/>
   <effect id="176" lib="BlueAirplane" type="fx" revision="59200"/>
   <effect id="177" lib="TarandFeather" type="fx" revision="59200"/>
-  <effect id="178" lib="Ambassador" type="fx" revision="59200"/>
+  <effect id="178" lib="HubbeGuardiao" type="fx" revision="59200"/>
   <effect id="179" lib="Luchador" type="fx" revision="59200"/>
   <effect id="180" lib="DayoftheDead" type="fx" revision="59200"/>
   <effect id="181" lib="DayoftheDead2" type="fx" revision="59200"/>
@@ -190,7 +190,7 @@
   <effect id="184" lib="SplashEvil" type="fx" revision="59791"/>
   <effect id="185" lib="SwimEvil" type="fx" revision="59733"/>
   <effect id="186" lib="MagicWand" type="fx" revision="60704"/>
-  <effect id="187" lib="Bot" type="fx" revision="60559"/>
+  <effect id="187" lib="HubbeEmbaixador" type="fx" revision="60559"/>
   <effect id="188" lib="CameraBot" type="fx" revision="61736"/>
   <effect id="189" lib="MobileDisco" type="fx" revision="61750"/>
   <effect id="190" lib="MobileDisco2" type="fx" revision="61750"/>
@@ -278,7 +278,7 @@
   <effect id="557" lib="HcityChiCha3" type="fx" revision="1337"/>
   <effect id="558" lib="HcityChiCha4" type="fx" revision="1337"/>
   <effect id="559" lib="HcityChiCha5" type="fx" revision="1337"/>
-  <effect id="560" lib="MOD1" type="fx" revision="1337"/>
+  <effect id="560" lib="HubbeAjudante" type="fx" revision="1337"/>
   <effect id="561" lib="FaceRollingEyes" type="fx" revision="20230317"/>
   <effect id="562" lib="SmilingFace" type="fx" revision="20230317"/>
   <effect id="563" lib="FaceTearsOfJoy" type="fx" revision="20230317"/>

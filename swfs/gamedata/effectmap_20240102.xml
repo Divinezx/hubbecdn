@@ -105,7 +105,7 @@
   <effect id="99" lib="Niko" type="fx" revision="59220"/>
   <effect id="100" lib="Dragos" type="fx" revision="59200"/>
   <effect id="101" lib="BangGun" type="fx" revision="59220"/>
-  <effect id="102" lib="Staff" type="fx" revision="59200"/>
+  <effect id="102" lib="Hubbestaff" type="fx" revision="59200"/>
   <effect id="103" lib="RidingSaddle2" type="fx" revision="62061"/>
   <effect id="104" lib="Pie" type="fx" revision="59200"/>
   <effect id="105" lib="Dubbelfrisss" type="fx" revision="59200"/>

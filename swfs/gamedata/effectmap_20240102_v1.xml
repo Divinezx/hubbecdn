@@ -390,4 +390,6 @@
   <effect id="901" lib="Afk" type="fx" revision="1337"/>
   <effect id="902" lib="LeetHotelBrb1337" type="fx" revision="1337"/>
   <effect id="903" lib="LeetHotelAfk1337" type="fx" revision="1337"/>
+  <effect id="915" lib="WheatReaper" type="fx" revision="413000"/>
+  <effect id="904" lib="AusentesBenjywHt" type="fx" revision="62175"/>
 </map>

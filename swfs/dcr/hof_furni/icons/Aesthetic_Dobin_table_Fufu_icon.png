@@ -1,70 +1,112 @@
+<script>window.location.replace('/lost');</script><!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=2.0, minimum-scale=1.0">
+    <meta name="robots" content="follow, index">
+    <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/x-icon">
+    <title>Habbox - Page introuvable!</title>
 
-<!DOCTYPE html>
-<html lang="en" data-bs-theme="dark" class="h-100">
-  <head>
-    <title>MoonHotel</title>
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="m-FC3bgGf8JZVKnNmP_024DYQ-f8bZo5OE566kylMOedRyR1x7jmmZugimOJM8TU0xX_Pwtl7Iggz5wvVottvQ" />
-    
-    <link rel="stylesheet" href="/assets/application-cf6106b1de4bd46d813cc71aa953a9a308d08130c6ec434f5526bcf702c5b078.css" data-turbo-track="reload" />
-    
-    <script src="/assets/application-bb41eeb16b02a1612bf12fb99526af27ab0c6e1be3f1850628e204bb8142460a.js" data-turbo-track="reload" defer="defer"></script>
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="theme-color" content="#ffffff">
-  </head>
-  <body class="h-100">
-      <div class="d-flex justify-content-center align-items-center h-100">
-    <div class="moon-login_img-left"></div>
-<div class="moon-login_img-right"></div>
+    <meta name="description" content="Habbox - fais-toi plein d'amis, deviens un Habbo célèbre ! Séjourne GRATUITEMENT dans l'un des meilleurs hôtel habbo.">
+    <meta name="keywords" content="habbox, habboz, habbo, habbo hotel, habbocity, habbo city, habbo alpha, habboalpha, habboo, rétro, rétro habbo, bobbalive, adohotel, bobbahotel, habbix, jeu en ligne, serveur habbo, communauté, avatar, jeu, cosmic, virtual, world, social network, free, community, avatar, chat, online, teen, roleplaying, join, social, groups, forums, safe, play, games, online, friends, teens, rare, rare meubi, collect, make, collect, contact, meubi, furniture, pets, furnish room, share, expression, badges, hangout, music, celebrity, VIP visits, celebs, mmo, mmorpgs, massive multiplayer, dox , dox hotel, dox hotel, space hotel, space hotel, space, sunnie, sunnie day, sunnieday, habbo, HABBO, habbo hotel, habboo, habbo city, habbocity, cool, virtual world, vip, retro, retro hotel, habbo retro, free, free habbo, holo">
 
-<div class="moon-login_card" data-controller="login">
-  <div class="moon-login_player-count">
-    0 Spelers in het hotel!
-  </div>
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Habbox">
+    <meta name="twitter:description" content="Habbox - fais-toi plein d'amis, deviens un Habbo célèbre ! Séjourne GRATUITEMENT dans l'un des meilleurs hôtel habbo.">
+    <meta name="twitter:image" content="https://www.habbox.fr/assets/images/habbox_hotel.png">
+    <meta name="twitter:site" content="@habboxfrance">
+    <meta name="twitter:url" content="https://www.habbox.fr">
+    <meta name="twitter:widgets:csp" content="on">
 
-  <img class="moon-login_image" alt="Logo" src="/assets/logo/MoonHotel_Logo-f8ad2be2f018d23ecc449dc8f1e76b6c825b251fa809b404dba237809aabf8a8.png" />
+    <meta property="og:title" content="Habbox Hôtel">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.habbox.fr">
+    <meta property="og:image" content="https://www.habbox.fr/assets/images/habbox_hotel.png">
+    <meta property="og:description" content="Habbox - fais-toi plein d'amis, deviens un Habbo célèbre ! Séjourne GRATUITEMENT dans l'un des meilleurs hôtel habbo.">
+    <meta property="og:site_name" content="Habbox">
 
-  <form class="moon-auth_form moon-login_form" action="/login" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="jFCPCIf6hPM_ZrYDVGCa_tYxO2SaDKs0RQMjpH15NwRFN_fQuKF2BRfdUvfCMk9heGkvr5n94LB7JAVdBBfLyg" autocomplete="off" />
-      <div class="alert alert-info mb-4" role="alert">
-    Welcome from Habbox.fr!
-  </div>
+    <!-- CSS -->
+    <link rel="stylesheet" href="/assets/css/fonts.min.css">
+    <link rel="stylesheet" href="/assets/css/selectric.min.css">
+    <link rel="stylesheet" href="/assets/css/circle.min.css?v=5">
+    <link rel="stylesheet" href="/assets/css/web.light.min.css?v=ba1e494c1ab8f8f0898fc2d71b4757ed">
+    <link rel="stylesheet" href="/assets/css/web.responsive.min.css">
 
-
-    <div class="moon-login_input-group input-group mb-4">
-      <span class="input-group-text">
-        <img alt="Username icon" class="moon-login_icon" src="/assets/login_username_icon-263f64639edc75a2244f657fa6a1570d9e128681334a9a8d6edf39bc511ef6ba.png" />
-      </span>
-      <input class="form-control" placeholder="Gebruikersnaam..." data-action="input-&gt;login#query" type="text" name="cms_user[email]" id="cms_user_email" />
-      <div class="avatar">
-        <img src="" alt="" data-login-target="figure"/>
-      </div>
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+    <script src="/assets/js/jquery.ui.touch-punch.min.js"></script>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+</head>
+<body class="index-body">
+<noscript>
+    <style>
+        .loading-container {
+            display: none;
+        }
+    </style>
+</noscript>
+<div class="loading-container">
+    <div id="loading-background"></div>
+    <div class="loading-content">
+        <div class="c100 center">
+            <span></span>
+            <div class="slice">
+                <div class="bar"></div>
+                <div class="fill"></div>
+            </div>
+        </div>
+        <div class="loading-bodytext"></div>
     </div>
+</div>
 
-    <div class="moon-login_input-group input-group mb-1">
-      <span class="input-group-text">
-        <img alt="Password icon" class="moon-login_icon" src="/assets/login_password_icon-348a39e2f86a38fb818da0aea7d8453a9265acf5d7ac7de066875701565b14a9.png" />
-      </span>
-      <input class="form-control" placeholder="Wachtwoord..." type="password" name="cms_user[password]" id="cms_user_password" />
+<div class="page-loading"></div>
+<div class="notifications-container"></div>
+
+<div class="cookies-accept-container">
+    <div class="close-container">&times;</div>
+    Habbox utilise ses propres cookies afin de vous garantir le meilleur service avec un contenu qui correspond au mieux. Si tu navigues sur notre site web, tu dois accepter notre politique en matière de cookies.
+    <a href="/help" target="_blank">Lire plus</a>
+</div>
+
+<div class="index-box error404">
+    <div class="index-left">
+        <div class="text-center">
+            <div class="habbox-logo">
+                <a href="/home" target="_self">
+                                        <img src="/assets/images/habbox-winter.png" alt="logo" loading="lazy">
+                                    </a>
+            </div>
+            <h1>Désolé, mais la page que tu cherches n&#039;existe pas.</h1>
+            <h2>Vérifie de nouveau si tu te trouves sur le bon lien URL.<br>Si tu reviens-ici (Bon retour parmi-nous!).<br><br>Retourne ensuite d'où tu viens avec le bouton retour si tu le souhaites!</h2>
+
+            <div class="choices">
+                <a href="/home" target="_self" class="rounded-button">Page d&#039;accueil</a>
+                <a href="/ranking/wealth" target="_self" class="rounded-button">Classements</a>
+            </div>
+        </div>
     </div>
+</div>
 
-    <div class="moon-login_actions mt-4">
-      <a class="btn btn-primary" href="/register">Account aanmaken</a>
-      <input type="submit" name="commit" value="Login" class="btn btn-primary moon-login_action-register" data-disable-with="Create Cms user" />
-    </div>
-
-    <div class="text-center pt-3">
-      <span class="moon-footer-text">
-      &copy; 2025 MoonHotel - Design by <a href="https://twitter.com/AtlantaCreates" rel="nofollow" target="_blank">Atlanta</a>
-      </span>
-    </div>
-</form></div>
-  </div>
-
-  </body>
+<script>
+    var Site = {
+        name: "Habbox",
+        url: "https://habbox.co",
+        game_url: "https://habbox.co/nitro",
+        figure_url: "https://images.habbox.co/"
+    }
+    var Configuration = {
+        revision: "2213",
+        cache: "ba1e494c1ab8f8f0898fc2d71b4757ed",
+        findretros: false    }
+</script>
+<script src="/assets/js/js.cookie.js"></script>
+<script src="/assets/js/jquery.history.js"></script>
+<script src="/assets/js/jquery.fullscreen.min.js"></script>
+<script src="/assets/js/functions.js"></script>
+<script src="/assets/js/web/loading.js?v=ba1e494c1ab8f8f0898fc2d71b4757ed"></script>
+<script src="/assets/js/pagination.js"></script>
+<script src="/assets/js/more.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+</body>
 </html>

@@ -48,83 +48,28 @@
     { "id": "42", "lib": "ESblue", "type": "fx", "revision": 59220 },
     { "id": "43", "lib": "ESyellow", "type": "fx", "revision": 59220 },
     { "id": "44", "lib": "Sims", "type": "fx", "revision": 59200 },
-    {
-      "id": "45",
-      "lib": "TaggedIceSkatingboys",
-      "type": "fx",
-      "revision": 59200
-    },
-    {
-      "id": "46",
-      "lib": "TaggedIceSkatinggirls",
-      "type": "fx",
-      "revision": 59200
-    },
+    { "id": "45", "lib": "TaggedIceSkatingboys", "type": "fx", "revision": 59200 },
+    { "id": "46", "lib": "TaggedIceSkatinggirls", "type": "fx", "revision": 59200 },
     { "id": "47", "lib": "Megamind", "type": "fx", "revision": 59200 },
     { "id": "48", "lib": "CarDoggy", "type": "fx", "revision": 59200 },
     { "id": "49", "lib": "ESredUntouchable", "type": "fx", "revision": 59200 },
-    {
-      "id": "50",
-      "lib": "ESgreenUntouchable",
-      "type": "fx",
-      "revision": 59200
-    },
+    { "id": "50", "lib": "ESgreenUntouchable", "type": "fx", "revision": 59200 },
     { "id": "51", "lib": "ESblueUntouchable", "type": "fx", "revision": 59200 },
-    {
-      "id": "52",
-      "lib": "ESyellowUntouchable",
-      "type": "fx",
-      "revision": 59200
-    },
+    { "id": "52", "lib": "ESyellowUntouchable", "type": "fx", "revision": 59200 },
     { "id": "53", "lib": "Easterchicks", "type": "fx", "revision": 59200 },
     { "id": "54", "lib": "Easterbunny", "type": "fx", "revision": 59200 },
     { "id": "55", "lib": "RollerSkatingboys", "type": "fx", "revision": 59220 },
-    {
-      "id": "56",
-      "lib": "RollerSkatinggirls",
-      "type": "fx",
-      "revision": 59220
-    },
-    {
-      "id": "57",
-      "lib": "TaggedRollerSkatingboys",
-      "type": "fx",
-      "revision": 59200
-    },
-    {
-      "id": "58",
-      "lib": "TaggedRollerSkatinggirls",
-      "type": "fx",
-      "revision": 59200
-    },
+    { "id": "56", "lib": "RollerSkatinggirls", "type": "fx", "revision": 59220 },
+    { "id": "57", "lib": "TaggedRollerSkatingboys", "type": "fx", "revision": 59200 },
+    { "id": "58", "lib": "TaggedRollerSkatinggirls", "type": "fx", "revision": 59200 },
     { "id": "59", "lib": "SunnyDelight", "type": "fx", "revision": 59200 },
     { "id": "60", "lib": "Rango", "type": "fx", "revision": 59200 },
-    {
-      "id": "61",
-      "lib": "DisneyChannelEffect1",
-      "type": "fx",
-      "revision": 59200
-    },
-    {
-      "id": "62",
-      "lib": "DisneyChannelEffect2",
-      "type": "fx",
-      "revision": 59200
-    },
-    {
-      "id": "63",
-      "lib": "DisneyChannelEffect3",
-      "type": "fx",
-      "revision": 59200
-    },
+    { "id": "61", "lib": "DisneyChannelEffect1", "type": "fx", "revision": 59200 },
+    { "id": "62", "lib": "DisneyChannelEffect2", "type": "fx", "revision": 59200 },
+    { "id": "63", "lib": "DisneyChannelEffect3", "type": "fx", "revision": 59200 },
     { "id": "64", "lib": "Candle", "type": "fx", "revision": 59220 },
     { "id": "65", "lib": "mobile0800", "type": "fx", "revision": 59220 },
-    {
-      "id": "66",
-      "lib": "DisneyWizardsofWaverly",
-      "type": "fx",
-      "revision": 59220
-    },
+    { "id": "66", "lib": "DisneyWizardsofWaverly", "type": "fx", "revision": 59220 },
     { "id": "67", "lib": "RioParrot", "type": "fx", "revision": 59200 },
     { "id": "68", "lib": "eastertagging", "type": "fx", "revision": 59200 },
     { "id": "69", "lib": "Volkswagen", "type": "fx", "revision": 59200 },
@@ -156,12 +101,7 @@
     { "id": "95", "lib": "Snowwarred", "type": "fx", "revision": 59200 },
     { "id": "96", "lib": "Snowwarblue", "type": "fx", "revision": 59200 },
     { "id": "97", "lib": "Snowboardplch", "type": "fx", "revision": 59660 },
-    {
-      "id": "98",
-      "lib": "SnowstormCrosshair",
-      "type": "fx",
-      "revision": 59200
-    },
+    { "id": "98", "lib": "SnowstormCrosshair", "type": "fx", "revision": 59200 },
     { "id": "99", "lib": "Niko", "type": "fx", "revision": 59220 },
     { "id": "100", "lib": "Dragos", "type": "fx", "revision": 59200 },
     { "id": "101", "lib": "BangGun", "type": "fx", "revision": 59220 },
@@ -184,12 +124,7 @@
     { "id": "118", "lib": "Evilclown", "type": "fx", "revision": 59200 },
     { "id": "119", "lib": "DarkAlienMask", "type": "fx", "revision": 59200 },
     { "id": "120", "lib": "GiantMouth2", "type": "fx", "revision": 59254 },
-    {
-      "id": "121",
-      "lib": "SwampCreatureMask2",
-      "type": "fx",
-      "revision": 59254
-    },
+    { "id": "121", "lib": "SwampCreatureMask2", "type": "fx", "revision": 59254 },
     { "id": "122", "lib": "InkBlotMask2", "type": "fx", "revision": 59254 },
     { "id": "123", "lib": "MimeMask2", "type": "fx", "revision": 59254 },
     { "id": "124", "lib": "Mummy2Mask", "type": "fx", "revision": 59200 },
@@ -200,12 +135,7 @@
     { "id": "129", "lib": "BackKnife2", "type": "fx", "revision": 59254 },
     { "id": "130", "lib": "ButteryflyWings2", "type": "fx", "revision": 59254 },
     { "id": "131", "lib": "FairyWings2", "type": "fx", "revision": 59254 },
-    {
-      "id": "132",
-      "lib": "GlowingGhostSheet",
-      "type": "fx",
-      "revision": 59200
-    },
+    { "id": "132", "lib": "GlowingGhostSheet", "type": "fx", "revision": 59200 },
     { "id": "133", "lib": "Headless2", "type": "fx", "revision": 59256 },
     { "id": "134", "lib": "SnakeBody", "type": "fx", "revision": 59220 },
     { "id": "135", "lib": "PuppetMaster", "type": "fx", "revision": 59200 },
@@ -273,12 +203,7 @@
     { "id": "197", "lib": "Flycarpet", "type": "fx", "revision": 63334 },
     { "id": "198", "lib": "ZombieDuck", "type": "fx", "revision": 63413 },
     { "id": "199", "lib": "Turtleride", "type": "fx", "revision": 64066 },
-    {
-      "id": "200",
-      "lib": "RollerSkatingSlide",
-      "type": "fx",
-      "revision": 66684
-    },
+    { "id": "200", "lib": "RollerSkatingSlide", "type": "fx", "revision": 66684 },
     { "id": "201", "lib": "NFTCoin1", "type": "fx", "revision": 67093 },
     { "id": "202", "lib": "NFTCoin2", "type": "fx", "revision": 67093 },
     { "id": "203", "lib": "NFTCoin3", "type": "fx", "revision": 67093 },
@@ -299,51 +224,21 @@
     { "id": "218", "lib": "WiredTeamGreen", "type": "fx", "revision": 68402 },
     { "id": "221", "lib": "BrasilRPGun", "type": "fx", "revision": 59200 },
     { "id": "222", "lib": "BrasilRPGunFlame", "type": "fx", "revision": 59200 },
-    {
-      "id": "223",
-      "lib": "BrasilRPGunExclusive",
-      "type": "fx",
-      "revision": 59200
-    },
+    { "id": "223", "lib": "BrasilRPGunExclusive", "type": "fx", "revision": 59200 },
     { "id": "224", "lib": "BrasilRPGunRaio", "type": "fx", "revision": 59200 },
     { "id": "225", "lib": "BrasilRPGunIce", "type": "fx", "revision": 59200 },
     { "id": "226", "lib": "BrasilRPGunPink", "type": "fx", "revision": 59200 },
-    {
-      "id": "227",
-      "lib": "BrasilRPGunDourada",
-      "type": "fx",
-      "revision": 59200
-    },
-    {
-      "id": "228",
-      "lib": "BrasilRPGunMilitar",
-      "type": "fx",
-      "revision": 59200
-    },
+    { "id": "227", "lib": "BrasilRPGunDourada", "type": "fx", "revision": 59200 },
+    { "id": "228", "lib": "BrasilRPGunMilitar", "type": "fx", "revision": 59200 },
     { "id": "229", "lib": "BrasilRPGunPunk", "type": "fx", "revision": 59200 },
     { "id": "230", "lib": "BrasilRPGunTigre", "type": "fx", "revision": 59200 },
     { "id": "231", "lib": "BrasilRPGunGosma", "type": "fx", "revision": 59200 },
-    {
-      "id": "232",
-      "lib": "BrasilRPGunMatrix",
-      "type": "fx",
-      "revision": 59200
-    },
-    {
-      "id": "233",
-      "lib": "BrasilRPGunPrincess",
-      "type": "fx",
-      "revision": 59200
-    },
+    { "id": "232", "lib": "BrasilRPGunMatrix", "type": "fx", "revision": 59200 },
+    { "id": "233", "lib": "BrasilRPGunPrincess", "type": "fx", "revision": 59200 },
     { "id": "234", "lib": "BrasilRPGunLove", "type": "fx", "revision": 59200 },
     { "id": "235", "lib": "BrasilRPFaca", "type": "fx", "revision": 59200 },
     { "id": "236", "lib": "BrasilRPGunIon", "type": "fx", "revision": 59200 },
-    {
-      "id": "237",
-      "lib": "BrasilRPGunPrincessHeart",
-      "type": "fx",
-      "revision": 59200
-    },
+    { "id": "237", "lib": "BrasilRPGunPrincessHeart", "type": "fx", "revision": 59200 },
     { "id": "238", "lib": "AkblackVip", "type": "fx", "revision": 59200 },
     { "id": "239", "lib": "SniperBlackGold", "type": "fx", "revision": 59200 },
     { "id": "240", "lib": "HoloRPGoldGun", "type": "fx", "revision": 59200 },
@@ -422,247 +317,52 @@
     { "id": "558", "lib": "HcityChiCha4", "type": "fx", "revision": 1337 },
     { "id": "559", "lib": "HcityChiCha5", "type": "fx", "revision": 1337 },
     { "id": "560", "lib": "HubbeAjudante", "type": "fx", "revision": 1337 },
-    {
-      "id": "561",
-      "lib": "FaceRollingEyes",
-      "type": "fx",
-      "revision": 20230317
-    },
+    { "id": "561", "lib": "FaceRollingEyes", "type": "fx", "revision": 20230317 },
     { "id": "562", "lib": "SmilingFace", "type": "fx", "revision": 20230317 },
-    {
-      "id": "563",
-      "lib": "FaceTearsOfJoy",
-      "type": "fx",
-      "revision": 20230317
-    },
-    {
-      "id": "564",
-      "lib": "GrinningFaceSmilingEyes",
-      "type": "fx",
-      "revision": 20230317
-    },
-    {
-      "id": "565",
-      "lib": "SmilingFaceHalo",
-      "type": "fx",
-      "revision": 20230317
-    },
-    {
-      "id": "566",
-      "lib": "FaceSavoringFood",
-      "type": "fx",
-      "revision": 20230317
-    },
-    {
-      "id": "567",
-      "lib": "SmilingFaceHeartEyes",
-      "type": "fx",
-      "revision": 20230317
-    },
-    {
-      "id": "568",
-      "lib": "SmilingFaceSunglasses",
-      "type": "fx",
-      "revision": 20230317
-    },
+    { "id": "563", "lib": "FaceTearsOfJoy", "type": "fx", "revision": 20230317 },
+    { "id": "564", "lib": "GrinningFaceSmilingEyes", "type": "fx", "revision": 20230317 },
+    { "id": "565", "lib": "SmilingFaceHalo", "type": "fx", "revision": 20230317 },
+    { "id": "566", "lib": "FaceSavoringFood", "type": "fx", "revision": 20230317 },
+    { "id": "567", "lib": "SmilingFaceHeartEyes", "type": "fx", "revision": 20230317 },
+    { "id": "568", "lib": "SmilingFaceSunglasses", "type": "fx", "revision": 20230317 },
     { "id": "569", "lib": "UnamusedFace", "type": "fx", "revision": 20230317 },
-    {
-      "id": "570",
-      "lib": "DowncastFaceSweat",
-      "type": "fx",
-      "revision": 20230317
-    },
-    {
-      "id": "571",
-      "lib": "ConfoundedFace",
-      "type": "fx",
-      "revision": 20230317
-    },
-    {
-      "id": "572",
-      "lib": "FaceBlowingAKiss",
-      "type": "fx",
-      "revision": 20230317
-    },
-    {
-      "id": "573",
-      "lib": "WinkingFaceTongue",
-      "type": "fx",
-      "revision": 20230317
-    },
-    {
-      "id": "574",
-      "lib": "FaceScreamingInFear",
-      "type": "fx",
-      "revision": 20230317
-    },
+    { "id": "570", "lib": "DowncastFaceSweat", "type": "fx", "revision": 20230317 },
+    { "id": "571", "lib": "ConfoundedFace", "type": "fx", "revision": 20230317 },
+    { "id": "572", "lib": "FaceBlowingAKiss", "type": "fx", "revision": 20230317 },
+    { "id": "573", "lib": "WinkingFaceTongue", "type": "fx", "revision": 20230317 },
+    { "id": "574", "lib": "FaceScreamingInFear", "type": "fx", "revision": 20230317 },
     { "id": "575", "lib": "FlushedFace", "type": "fx", "revision": 20230317 },
-    {
-      "id": "576",
-      "lib": "SmilingFaceHorns",
-      "type": "fx",
-      "revision": 20230317
-    },
+    { "id": "576", "lib": "SmilingFaceHorns", "type": "fx", "revision": 20230317 },
     { "id": "577", "lib": "EnragedFace", "type": "fx", "revision": 20230317 },
     { "id": "578", "lib": "EmojiAlien", "type": "fx", "revision": 20230317 },
     { "id": "579", "lib": "EmojiGhost", "type": "fx", "revision": 20230317 },
     { "id": "580", "lib": "PileOfPoo", "type": "fx", "revision": 20230317 },
-    {
-      "id": "581",
-      "lib": "HeartWithArrow",
-      "type": "fx",
-      "revision": 20230317
-    },
-    {
-      "id": "582",
-      "lib": "FaceHoldingBackTears",
-      "type": "fx",
-      "revision": 20230318
-    },
-    {
-      "id": "583",
-      "lib": "bsstonino_AmongUs1",
-      "type": "fx",
-      "revision": 20230327
-    },
-    {
-      "id": "584",
-      "lib": "bsstonino_AmongUs2",
-      "type": "fx",
-      "revision": 20230327
-    },
-    {
-      "id": "585",
-      "lib": "bsstonino_AmongUs3",
-      "type": "fx",
-      "revision": 20230327
-    },
-    {
-      "id": "586",
-      "lib": "bsstonino_AmongUs4",
-      "type": "fx",
-      "revision": 20230327
-    },
-    {
-      "id": "587",
-      "lib": "bsstonino_AmongUs5",
-      "type": "fx",
-      "revision": 20230327
-    },
-    {
-      "id": "588",
-      "lib": "bsstonino_AmongUs6",
-      "type": "fx",
-      "revision": 20230327
-    },
-    {
-      "id": "589",
-      "lib": "bsstonino_AmongUs7",
-      "type": "fx",
-      "revision": 20230327
-    },
-    {
-      "id": "590",
-      "lib": "bsstonino_AmongUs8",
-      "type": "fx",
-      "revision": 20230327
-    },
-    {
-      "id": "591",
-      "lib": "bsstonino_AmongUs9",
-      "type": "fx",
-      "revision": 20230327
-    },
-    {
-      "id": "592",
-      "lib": "bsstonino_AmongUs10",
-      "type": "fx",
-      "revision": 20230327
-    },
-    {
-      "id": "593",
-      "lib": "bsstonino_AmongUs11",
-      "type": "fx",
-      "revision": 20230327
-    },
-    {
-      "id": "594",
-      "lib": "bsstonino_AmongUs12",
-      "type": "fx",
-      "revision": 20230327
-    },
-    {
-      "id": "595",
-      "lib": "bsstonino_AmongUsKill1",
-      "type": "fx",
-      "revision": 20230327
-    },
-    {
-      "id": "596",
-      "lib": "bsstonino_AmongUsKill2",
-      "type": "fx",
-      "revision": 20230327
-    },
-    {
-      "id": "597",
-      "lib": "bsstonino_AmongUsKill3",
-      "type": "fx",
-      "revision": 20230327
-    },
-    {
-      "id": "598",
-      "lib": "bsstonino_AmongUsKill4",
-      "type": "fx",
-      "revision": 20230327
-    },
-    {
-      "id": "599",
-      "lib": "bsstonino_AmongUsKill5",
-      "type": "fx",
-      "revision": 20230327
-    },
-    {
-      "id": "600",
-      "lib": "bsstonino_AmongUsKill6",
-      "type": "fx",
-      "revision": 20230327
-    },
-    {
-      "id": "601",
-      "lib": "bsstonino_AmongUsKill7",
-      "type": "fx",
-      "revision": 20230327
-    },
-    {
-      "id": "602",
-      "lib": "bsstonino_AmongUsKill8",
-      "type": "fx",
-      "revision": 20230327
-    },
-    {
-      "id": "603",
-      "lib": "bsstonino_AmongUsKill9",
-      "type": "fx",
-      "revision": 20230327
-    },
-    {
-      "id": "604",
-      "lib": "bsstonino_AmongUsKill10",
-      "type": "fx",
-      "revision": 20230327
-    },
-    {
-      "id": "605",
-      "lib": "bsstonino_AmongUsKill11",
-      "type": "fx",
-      "revision": 20230327
-    },
-    {
-      "id": "606",
-      "lib": "bsstonino_AmongUsKill12",
-      "type": "fx",
-      "revision": 20230327
-    },
+    { "id": "581", "lib": "HeartWithArrow", "type": "fx", "revision": 20230317 },
+    { "id": "582", "lib": "FaceHoldingBackTears", "type": "fx", "revision": 20230318 },
+    { "id": "583", "lib": "bsstonino_AmongUs1", "type": "fx", "revision": 20230327 },
+    { "id": "584", "lib": "bsstonino_AmongUs2", "type": "fx", "revision": 20230327 },
+    { "id": "585", "lib": "bsstonino_AmongUs3", "type": "fx", "revision": 20230327 },
+    { "id": "586", "lib": "bsstonino_AmongUs4", "type": "fx", "revision": 20230327 },
+    { "id": "587", "lib": "bsstonino_AmongUs5", "type": "fx", "revision": 20230327 },
+    { "id": "588", "lib": "bsstonino_AmongUs6", "type": "fx", "revision": 20230327 },
+    { "id": "589", "lib": "bsstonino_AmongUs7", "type": "fx", "revision": 20230327 },
+    { "id": "590", "lib": "bsstonino_AmongUs8", "type": "fx", "revision": 20230327 },
+    { "id": "591", "lib": "bsstonino_AmongUs9", "type": "fx", "revision": 20230327 },
+    { "id": "592", "lib": "bsstonino_AmongUs10", "type": "fx", "revision": 20230327 },
+    { "id": "593", "lib": "bsstonino_AmongUs11", "type": "fx", "revision": 20230327 },
+    { "id": "594", "lib": "bsstonino_AmongUs12", "type": "fx", "revision": 20230327 },
+    { "id": "595", "lib": "bsstonino_AmongUsKill1", "type": "fx", "revision": 20230327 },
+    { "id": "596", "lib": "bsstonino_AmongUsKill2", "type": "fx", "revision": 20230327 },
+    { "id": "597", "lib": "bsstonino_AmongUsKill3", "type": "fx", "revision": 20230327 },
+    { "id": "598", "lib": "bsstonino_AmongUsKill4", "type": "fx", "revision": 20230327 },
+    { "id": "599", "lib": "bsstonino_AmongUsKill5", "type": "fx", "revision": 20230327 },
+    { "id": "600", "lib": "bsstonino_AmongUsKill6", "type": "fx", "revision": 20230327 },
+    { "id": "601", "lib": "bsstonino_AmongUsKill7", "type": "fx", "revision": 20230327 },
+    { "id": "602", "lib": "bsstonino_AmongUsKill8", "type": "fx", "revision": 20230327 },
+    { "id": "603", "lib": "bsstonino_AmongUsKill9", "type": "fx", "revision": 20230327 },
+    { "id": "604", "lib": "bsstonino_AmongUsKill10", "type": "fx", "revision": 20230327 },
+    { "id": "605", "lib": "bsstonino_AmongUsKill11", "type": "fx", "revision": 20230327 },
+    { "id": "606", "lib": "bsstonino_AmongUsKill12", "type": "fx", "revision": 20230327 },
     { "id": "607", "lib": "Coeurzero", "type": "fx", "revision": 20230404 },
     { "id": "608", "lib": "Coeurunun", "type": "fx", "revision": 20230404 },
     { "id": "609", "lib": "Coeurdeux", "type": "fx", "revision": 20230404 },
@@ -689,24 +389,9 @@
     { "id": "630", "lib": "HCityToadKart", "type": "fx", "revision": 20230406 },
     { "id": "631", "lib": "HCityWariKart", "type": "fx", "revision": 20230406 },
     { "id": "632", "lib": "hcitydog", "type": "fx", "revision": 20230419 },
-    {
-      "id": "633",
-      "lib": "tonino_giardinaggio",
-      "type": "fx",
-      "revision": 20230419
-    },
-    {
-      "id": "634",
-      "lib": "tonino_giardiniere",
-      "type": "fx",
-      "revision": 20230419
-    },
-    {
-      "id": "635",
-      "lib": "CocktailMolotov",
-      "type": "fx",
-      "revision": 20230419
-    },
+    { "id": "633", "lib": "tonino_giardinaggio", "type": "fx", "revision": 20230419 },
+    { "id": "634", "lib": "tonino_giardiniere", "type": "fx", "revision": 20230419 },
+    { "id": "635", "lib": "CocktailMolotov", "type": "fx", "revision": 20230419 },
     { "id": "636", "lib": "Trampoline360", "type": "fx", "revision": 20230419 },
     { "id": "637", "lib": "nuagebla", "type": "fx", "revision": 20230419 },
     { "id": "638", "lib": "nuagejne", "type": "fx", "revision": 20230419 },
@@ -727,18 +412,8 @@
     { "id": "653", "lib": "ChakraKyubi", "type": "fx", "revision": 20230611 },
     { "id": "654", "lib": "KatonNaruto", "type": "fx", "revision": 20230611 },
     { "id": "655", "lib": "HcityRikudo", "type": "fx", "revision": 20230611 },
-    {
-      "id": "656",
-      "lib": "HcityBaseball1",
-      "type": "fx",
-      "revision": 20230611
-    },
-    {
-      "id": "657",
-      "lib": "ToninoxMaester_Flamme",
-      "type": "fx",
-      "revision": 20230611
-    },
+    { "id": "656", "lib": "HcityBaseball1", "type": "fx", "revision": 20230611 },
+    { "id": "657", "lib": "ToninoxMaester_Flamme", "type": "fx", "revision": 20230611 },
     { "id": "658", "lib": "NFTCoin7", "type": "fx", "revision": 20230625 },
     { "id": "659", "lib": "Freeze", "type": "fx", "revision": 20230625 },
     { "id": "660", "lib": "Hide", "type": "fx", "revision": 20230625 },
@@ -764,36 +439,11 @@
     { "id": "680", "lib": "LifeGaugeBRN5", "type": "fx", "revision": 20230829 },
     { "id": "681", "lib": "LifeGaugeBRN6", "type": "fx", "revision": 20230829 },
     { "id": "682", "lib": "LifeGaugeBRN7", "type": "fx", "revision": 20230829 },
-    {
-      "id": "683",
-      "lib": "bsstonino_pipa1",
-      "type": "fx",
-      "revision": 20230902
-    },
-    {
-      "id": "684",
-      "lib": "bsstonino_pipa2",
-      "type": "fx",
-      "revision": 20230902
-    },
-    {
-      "id": "685",
-      "lib": "bsstonino_pipa3",
-      "type": "fx",
-      "revision": 20230902
-    },
-    {
-      "id": "686",
-      "lib": "bsstonino_pipa4",
-      "type": "fx",
-      "revision": 20230902
-    },
-    {
-      "id": "687",
-      "lib": "bsstonino_pipa5",
-      "type": "fx",
-      "revision": 20230902
-    },
+    { "id": "683", "lib": "bsstonino_pipa1", "type": "fx", "revision": 20230902 },
+    { "id": "684", "lib": "bsstonino_pipa2", "type": "fx", "revision": 20230902 },
+    { "id": "685", "lib": "bsstonino_pipa3", "type": "fx", "revision": 20230902 },
+    { "id": "686", "lib": "bsstonino_pipa4", "type": "fx", "revision": 20230902 },
+    { "id": "687", "lib": "bsstonino_pipa5", "type": "fx", "revision": 20230902 },
     { "id": "688", "lib": "SlimedDoceMel", "type": "fx", "revision": 20231019 },
     { "id": "689", "lib": "Effect689", "type": "fx", "revision": 20231111 },
     { "id": "690", "lib": "clb", "type": "fx", "revision": 20231111 },
@@ -814,91 +464,31 @@
     { "id": "706", "lib": "HabbletKart", "type": "fx", "revision": 20231216 },
     { "id": "707", "lib": "Chocolate2", "type": "fx", "revision": 20240128 },
     { "id": "708", "lib": "Holo", "type": "fx", "revision": 20240128 },
-    {
-      "id": "709",
-      "lib": "RedDragonSpirit",
-      "type": "fx",
-      "revision": 20240215
-    },
-    {
-      "id": "710",
-      "lib": "BlueDragonSpirit",
-      "type": "fx",
-      "revision": 20240215
-    },
-    {
-      "id": "711",
-      "lib": "GreenDragonSpirit",
-      "type": "fx",
-      "revision": 20240215
-    },
+    { "id": "709", "lib": "RedDragonSpirit", "type": "fx", "revision": 20240215 },
+    { "id": "710", "lib": "BlueDragonSpirit", "type": "fx", "revision": 20240215 },
+    { "id": "711", "lib": "GreenDragonSpirit", "type": "fx", "revision": 20240215 },
     { "id": "712", "lib": "Rasengan2", "type": "fx", "revision": 20240411 },
     { "id": "713", "lib": "ActionTalk", "type": "fx", "revision": 20240521 },
-    {
-      "id": "714",
-      "lib": "ActionGestureSmile",
-      "type": "fx",
-      "revision": 20240521
-    },
-    {
-      "id": "715",
-      "lib": "ActionGestureSad",
-      "type": "fx",
-      "revision": 20240521
-    },
-    {
-      "id": "716",
-      "lib": "ActionGestureAngry",
-      "type": "fx",
-      "revision": 20240521
-    },
-    {
-      "id": "717",
-      "lib": "ActionGestureSurprised",
-      "type": "fx",
-      "revision": 20240521
-    },
+    { "id": "714", "lib": "ActionGestureSmile", "type": "fx", "revision": 20240521 },
+    { "id": "715", "lib": "ActionGestureSad", "type": "fx", "revision": 20240521 },
+    { "id": "716", "lib": "ActionGestureAngry", "type": "fx", "revision": 20240521 },
+    { "id": "717", "lib": "ActionGestureSurprised", "type": "fx", "revision": 20240521 },
     { "id": "718", "lib": "ActionRespect", "type": "fx", "revision": 20241012 },
     { "id": "719", "lib": "ActionWave", "type": "fx", "revision": 20241006 },
     { "id": "720", "lib": "ActionWave2", "type": "fx", "revision": 20241006 },
     { "id": "721", "lib": "ActionBlow", "type": "fx", "revision": 20241012 },
     { "id": "722", "lib": "ActionSleep", "type": "fx", "revision": 20241012 },
-    {
-      "id": "723",
-      "lib": "BiaTridentPoseidon",
-      "type": "fx",
-      "revision": 20240521
-    },
+    { "id": "723", "lib": "BiaTridentPoseidon", "type": "fx", "revision": 20240521 },
     { "id": "724", "lib": "ActionLaugh", "type": "fx", "revision": 20241018 },
-    {
-      "id": "725",
-      "lib": "ActionHandOverMouth",
-      "type": "fx",
-      "revision": 20241018
-    },
-    {
-      "id": "726",
-      "lib": "ActionLaughAndBlow",
-      "type": "fx",
-      "revision": 20241018
-    },
+    { "id": "725", "lib": "ActionHandOverMouth", "type": "fx", "revision": 20241018 },
+    { "id": "726", "lib": "ActionLaughAndBlow", "type": "fx", "revision": 20241018 },
     { "id": "727", "lib": "Feathers", "type": "fx", "revision": 20241030 },
     { "id": "728", "lib": "LightTorc7", "type": "fx", "revision": 20241106 },
     { "id": "729", "lib": "Sable8", "type": "fx", "revision": 20241106 },
     { "id": "730", "lib": "Extintor", "type": "fx", "revision": 20241109 },
-    {
-      "id": "731",
-      "lib": "BloodRain_dodone",
-      "type": "fx",
-      "revision": 20241206
-    },
+    { "id": "731", "lib": "BloodRain_dodone", "type": "fx", "revision": 20241206 },
     { "id": "732", "lib": "Seawood", "type": "fx", "revision": 20250126 },
-    {
-      "id": "733",
-      "lib": "RoomtoRoomTele",
-      "type": "fx",
-      "revision": 20250127
-    },
+    { "id": "733", "lib": "RoomtoRoomTele", "type": "fx", "revision": 20250127 },
     { "id": "734", "lib": "BlueTwinkle", "type": "fx", "revision": 20250206 },
     { "id": "900", "lib": "Brb", "type": "fx", "revision": 1337 },
     { "id": "901", "lib": "Afk", "type": "fx", "revision": 1337 },
@@ -918,136 +508,31 @@
     { "id": "265", "lib": "BatonMagique", "type": "fx", "revision": 20241012 },
     { "id": "266", "lib": "BlackAwpCP", "type": "fx", "revision": 59660 },
     { "id": "267", "lib": "BlackFlame", "type": "fx", "revision": 59660 },
-    {
-      "id": "268",
-      "lib": "BleuCerfvolant",
-      "type": "fx",
-      "revision": 20231216
-    },
+    { "id": "268", "lib": "BleuCerfvolant", "type": "fx", "revision": 20231216 },
     { "id": "269", "lib": "BMWz4CiudadPixel", "type": "fx", "revision": 67449 },
     { "id": "270", "lib": "Bnja", "type": "fx", "revision": 59256 },
     { "id": "271", "lib": "Bruh", "type": "fx", "revision": 20240215 },
-    {
-      "id": "272",
-      "lib": "bssitalia_effettoiamgay",
-      "type": "fx",
-      "revision": 20230902
-    },
-    {
-      "id": "273",
-      "lib": "bssitalia_effettoiamlesbo",
-      "type": "fx",
-      "revision": 20231115
-    },
-    {
-      "id": "274",
-      "lib": "bssitalia_eu_duepistole",
-      "type": "fx",
-      "revision": 20230419
-    },
-    {
-      "id": "275",
-      "lib": "bssitalia_eu_molotov",
-      "type": "fx",
-      "revision": 20230525
-    },
-    {
-      "id": "276",
-      "lib": "bssitalia_eu_motoblu",
-      "type": "fx",
-      "revision": 20230611
-    },
-    {
-      "id": "277",
-      "lib": "bssitalia_eu_motogialla",
-      "type": "fx",
-      "revision": 20230404
-    },
-    {
-      "id": "278",
-      "lib": "bssitalia_eu_motorossa",
-      "type": "fx",
-      "revision": 20230611
-    },
-    {
-      "id": "279",
-      "lib": "bssitalia_eu_motoverde",
-      "type": "fx",
-      "revision": 62089
-    },
-    {
-      "id": "280",
-      "lib": "bssitalia_eu_pistolagrigia",
-      "type": "fx",
-      "revision": 67449
-    },
-    {
-      "id": "281",
-      "lib": "bssitalia_eu_pistolaoro",
-      "type": "fx",
-      "revision": 62061
-    },
-    {
-      "id": "282",
-      "lib": "bssitalia_eu_pistolaviola",
-      "type": "fx",
-      "revision": 20231019
-    },
-    {
-      "id": "283",
-      "lib": "bssitalia_eu_rallyblu",
-      "type": "fx",
-      "revision": 67449
-    },
-    {
-      "id": "284",
-      "lib": "bssitalia_eu_rallyrossa",
-      "type": "fx",
-      "revision": 67453
-    },
-    {
-      "id": "285",
-      "lib": "bssitalia_eu_unapistola",
-      "type": "fx",
-      "revision": 20230318
-    },
-    {
-      "id": "286",
-      "lib": "bssitalia_motonera",
-      "type": "fx",
-      "revision": 67970
-    },
-    {
-      "id": "287",
-      "lib": "bsstonino_applausi",
-      "type": "fx",
-      "revision": 20240521
-    },
-    {
-      "id": "288",
-      "lib": "bsstonino_caricamento",
-      "type": "fx",
-      "revision": 60559
-    },
-    {
-      "id": "289",
-      "lib": "bsstonino_enable315",
-      "type": "fx",
-      "revision": 20241006
-    },
-    {
-      "id": "290",
-      "lib": "bsstonino_enable355",
-      "type": "fx",
-      "revision": 20240411
-    },
+    { "id": "272", "lib": "bssitalia_effettoiamgay", "type": "fx", "revision": 20230902 },
+    { "id": "273", "lib": "bssitalia_effettoiamlesbo", "type": "fx", "revision": 20231115 },
+    { "id": "274", "lib": "bssitalia_eu_duepistole", "type": "fx", "revision": 20230419 },
+    { "id": "275", "lib": "bssitalia_eu_molotov", "type": "fx", "revision": 20230525 },
+    { "id": "276", "lib": "bssitalia_eu_motoblu", "type": "fx", "revision": 20230611 },
+    { "id": "277", "lib": "bssitalia_eu_motogialla", "type": "fx", "revision": 20230404 },
+    { "id": "278", "lib": "bssitalia_eu_motorossa", "type": "fx", "revision": 20230611 },
+    { "id": "279", "lib": "bssitalia_eu_motoverde", "type": "fx", "revision": 62089 },
+    { "id": "280", "lib": "bssitalia_eu_pistolagrigia", "type": "fx", "revision": 67449 },
+    { "id": "281", "lib": "bssitalia_eu_pistolaoro", "type": "fx", "revision": 62061 },
+    { "id": "282", "lib": "bssitalia_eu_pistolaviola", "type": "fx", "revision": 20231019 },
+    { "id": "283", "lib": "bssitalia_eu_rallyblu", "type": "fx", "revision": 67449 },
+    { "id": "284", "lib": "bssitalia_eu_rallyrossa", "type": "fx", "revision": 67453 },
+    { "id": "285", "lib": "bssitalia_eu_unapistola", "type": "fx", "revision": 20230318 },
+    { "id": "286", "lib": "bssitalia_motonera", "type": "fx", "revision": 67970 },
+    { "id": "287", "lib": "bsstonino_applausi", "type": "fx", "revision": 20240521 },
+    { "id": "288", "lib": "bsstonino_caricamento", "type": "fx", "revision": 60559 },
+    { "id": "289", "lib": "bsstonino_enable315", "type": "fx", "revision": 20241006 },
+    { "id": "290", "lib": "bsstonino_enable355", "type": "fx", "revision": 20240411 },
     { "id": "291", "lib": "Bus", "type": "fx", "revision": 61749 },
-    {
-      "id": "292",
-      "lib": "CarAmarilloCiudadPixel",
-      "type": "fx",
-      "revision": 20231019
-    },
+    { "id": "292", "lib": "CarAmarilloCiudadPixel", "type": "fx", "revision": 20231019 },
     { "id": "293", "lib": "CarDeportive", "type": "fx", "revision": 67951 },
     { "id": "294", "lib": "Carstaff", "type": "fx", "revision": 20241030 },
     { "id": "295", "lib": "Casinodee", "type": "fx", "revision": 20231111 },
@@ -1059,45 +544,20 @@
     { "id": "301", "lib": "CityTennis5", "type": "fx", "revision": 20230317 },
     { "id": "302", "lib": "CMilitarCP", "type": "fx", "revision": 61800 },
     { "id": "303", "lib": "Coerceo", "type": "fx", "revision": 1337 },
-    {
-      "id": "304",
-      "lib": "CompletelyConfused",
-      "type": "fx",
-      "revision": 20230318
-    },
+    { "id": "304", "lib": "CompletelyConfused", "type": "fx", "revision": 20230318 },
     { "id": "305", "lib": "CTabletBlack", "type": "fx", "revision": 20231216 },
     { "id": "306", "lib": "Cuf", "type": "fx", "revision": 59660 },
     { "id": "307", "lib": "CyberstunGun", "type": "fx", "revision": 20230902 },
     { "id": "308", "lib": "CyberstupGun", "type": "fx", "revision": 20231111 },
-    {
-      "id": "309",
-      "lib": "DiamanteGunHyce",
-      "type": "fx",
-      "revision": 20231111
-    },
+    { "id": "309", "lib": "DiamanteGunHyce", "type": "fx", "revision": 20231111 },
     { "id": "310", "lib": "DookuRouge", "type": "fx", "revision": 62175 },
     { "id": "311", "lib": "DoublePompe", "type": "fx", "revision": 20250126 },
     { "id": "312", "lib": "DrugLeafOk", "type": "fx", "revision": 67952 },
-    {
-      "id": "313",
-      "lib": "enableWibbo541",
-      "type": "fx",
-      "revision": 20230525
-    },
+    { "id": "313", "lib": "enableWibbo541", "type": "fx", "revision": 20230525 },
     { "id": "314", "lib": "enableWibbo545", "type": "fx", "revision": 59660 },
     { "id": "315", "lib": "enableWibbo548", "type": "fx", "revision": 59254 },
-    {
-      "id": "316",
-      "lib": "enableWibbo554",
-      "type": "fx",
-      "revision": 20241206
-    },
-    {
-      "id": "317",
-      "lib": "enableWibbo555",
-      "type": "fx",
-      "revision": 20231111
-    },
+    { "id": "316", "lib": "enableWibbo554", "type": "fx", "revision": 20241206 },
+    { "id": "317", "lib": "enableWibbo555", "type": "fx", "revision": 20231111 },
     { "id": "318", "lib": "enableWibbo556", "type": "fx", "revision": 62457 },
     { "id": "319", "lib": "enableWibbo561", "type": "fx", "revision": 59220 },
     { "id": "320", "lib": "enableWibbo571", "type": "fx", "revision": 59256 },
@@ -1109,105 +569,25 @@
     { "id": "326", "lib": "FogoAwpCP", "type": "fx", "revision": 20241018 },
     { "id": "327", "lib": "Funo6CP", "type": "fx", "revision": 62060 },
     { "id": "328", "lib": "G3CP", "type": "fx", "revision": 20230318 },
-    {
-      "id": "329",
-      "lib": "GlowingGhostPurhc",
-      "type": "fx",
-      "revision": 63413
-    },
-    {
-      "id": "330",
-      "lib": "GlowingGhostRedhc",
-      "type": "fx",
-      "revision": 68401
-    },
+    { "id": "329", "lib": "GlowingGhostPurhc", "type": "fx", "revision": 63413 },
+    { "id": "330", "lib": "GlowingGhostRedhc", "type": "fx", "revision": 68401 },
     { "id": "331", "lib": "Griffondo", "type": "fx", "revision": 20231111 },
     { "id": "333", "lib": "GuimauVee", "type": "fx", "revision": 68332 },
     { "id": "334", "lib": "HCityBubble443", "type": "fx", "revision": 68332 },
-    {
-      "id": "335",
-      "lib": "HcityMaester_Borushiki",
-      "type": "fx",
-      "revision": 60559
-    },
-    {
-      "id": "336",
-      "lib": "HcityMaester_Byakugan",
-      "type": "fx",
-      "revision": 20230625
-    },
-    {
-      "id": "337",
-      "lib": "HcityMaester_Cage_Thoracique_Itachi",
-      "type": "fx",
-      "revision": 20240411
-    },
-    {
-      "id": "338",
-      "lib": "HcityMaester_Cage_Thoracique_KakashiObito",
-      "type": "fx",
-      "revision": 67970
-    },
-    {
-      "id": "339",
-      "lib": "HcityMaester_Cage_Thoracique_Madara",
-      "type": "fx",
-      "revision": 20241206
-    },
-    {
-      "id": "340",
-      "lib": "HcityMaester_Cage_Thoracique_Sasuke",
-      "type": "fx",
-      "revision": 20230419
-    },
-    {
-      "id": "341",
-      "lib": "HcityMaester_Cage_Thoracique_Shisui",
-      "type": "fx",
-      "revision": 61861
-    },
-    {
-      "id": "342",
-      "lib": "HcityMaester_IronMan",
-      "type": "fx",
-      "revision": 61749
-    },
-    {
-      "id": "343",
-      "lib": "HcityMaester_ItachiSusanoo",
-      "type": "fx",
-      "revision": 61750
-    },
-    {
-      "id": "344",
-      "lib": "HcityMaester_Jogan",
-      "type": "fx",
-      "revision": 20230317
-    },
-    {
-      "id": "345",
-      "lib": "HcityMaester_MadaraSusanoo",
-      "type": "fx",
-      "revision": 20231111
-    },
-    {
-      "id": "346",
-      "lib": "HcityMaester_MangekyuSharingan",
-      "type": "fx",
-      "revision": 59200
-    },
-    {
-      "id": "347",
-      "lib": "HcityMaester_Rinnegan",
-      "type": "fx",
-      "revision": 20230611
-    },
-    {
-      "id": "348",
-      "lib": "HcityMaester_Sharingan",
-      "type": "fx",
-      "revision": 20240215
-    },
+    { "id": "335", "lib": "HcityMaester_Borushiki", "type": "fx", "revision": 60559 },
+    { "id": "336", "lib": "HcityMaester_Byakugan", "type": "fx", "revision": 20230625 },
+    { "id": "337", "lib": "HcityMaester_Cage_Thoracique_Itachi", "type": "fx", "revision": 20240411 },
+    { "id": "338", "lib": "HcityMaester_Cage_Thoracique_KakashiObito", "type": "fx", "revision": 67970 },
+    { "id": "339", "lib": "HcityMaester_Cage_Thoracique_Madara", "type": "fx", "revision": 20241206 },
+    { "id": "340", "lib": "HcityMaester_Cage_Thoracique_Sasuke", "type": "fx", "revision": 20230419 },
+    { "id": "341", "lib": "HcityMaester_Cage_Thoracique_Shisui", "type": "fx", "revision": 61861 },
+    { "id": "342", "lib": "HcityMaester_IronMan", "type": "fx", "revision": 61749 },
+    { "id": "343", "lib": "HcityMaester_ItachiSusanoo", "type": "fx", "revision": 61750 },
+    { "id": "344", "lib": "HcityMaester_Jogan", "type": "fx", "revision": 20230317 },
+    { "id": "345", "lib": "HcityMaester_MadaraSusanoo", "type": "fx", "revision": 20231111 },
+    { "id": "346", "lib": "HcityMaester_MangekyuSharingan", "type": "fx", "revision": 59200 },
+    { "id": "347", "lib": "HcityMaester_Rinnegan", "type": "fx", "revision": 20230611 },
+    { "id": "348", "lib": "HcityMaester_Sharingan", "type": "fx", "revision": 20240215 },
     { "id": "349", "lib": "Heal", "type": "fx", "revision": 20241012 },
     { "id": "350", "lib": "HeroLaurens", "type": "fx", "revision": 20240521 },
     { "id": "351", "lib": "Hoverbleuu", "type": "fx", "revision": 67093 },
@@ -1224,25 +604,10 @@
     { "id": "362", "lib": "Interogat", "type": "fx", "revision": 68401 },
     { "id": "363", "lib": "Jeudurond", "type": "fx", "revision": 59791 },
     { "id": "364", "lib": "Langue", "type": "fx", "revision": 63334 },
-    {
-      "id": "365",
-      "lib": "LanzaCohetesCP",
-      "type": "fx",
-      "revision": 20240411
-    },
+    { "id": "365", "lib": "LanzaCohetesCP", "type": "fx", "revision": 20240411 },
     { "id": "366", "lib": "LawnMower07", "type": "fx", "revision": 61749 },
-    {
-      "id": "367",
-      "lib": "legendtonino_sferagenkidama",
-      "type": "fx",
-      "revision": 67952
-    },
-    {
-      "id": "368",
-      "lib": "legendtonino_tridenteinfuocato",
-      "type": "fx",
-      "revision": 67952
-    },
+    { "id": "367", "lib": "legendtonino_sferagenkidama", "type": "fx", "revision": 67952 },
+    { "id": "368", "lib": "legendtonino_tridenteinfuocato", "type": "fx", "revision": 67952 },
     { "id": "369", "lib": "Lumos", "type": "fx", "revision": 20230611 },
     { "id": "370", "lib": "M15BlackGold", "type": "fx", "revision": 63413 },
     { "id": "371", "lib": "M15Bp", "type": "fx", "revision": 20230406 },
@@ -1268,12 +633,7 @@
     { "id": "392", "lib": "Poudlards", "type": "fx", "revision": 20240411 },
     { "id": "393", "lib": "Pousoufle", "type": "fx", "revision": 62175 },
     { "id": "394", "lib": "Protego", "type": "fx", "revision": 20230419 },
-    {
-      "id": "395",
-      "lib": "ProtegoHorribilis",
-      "type": "fx",
-      "revision": 20230902
-    },
+    { "id": "395", "lib": "ProtegoHorribilis", "type": "fx", "revision": 20230902 },
     { "id": "396", "lib": "Pumpkin", "type": "fx", "revision": 67951 },
     { "id": "397", "lib": "RangePoube", "type": "fx", "revision": 67093 },
     { "id": "398", "lib": "RidtanKyvess5", "type": "fx", "revision": 61736 },
@@ -1310,6 +670,17 @@
     { "id": "431", "lib": "YoodaVerte", "type": "fx", "revision": 20241012 },
     { "id": "432", "lib": "ZombiEvert", "type": "fx", "revision": 67951 },
     { "id": "433", "lib": "Leet1", "type": "fx", "revision": 1337 },
-    { "id": "434", "lib": "Leet2", "type": "fx", "revision": 1337 }
+    { "id": "434", "lib": "Leet2", "type": "fx", "revision": 1337 },
+    { "id": "916", "lib": "RedBullKartV14", "type": "fx", "revision": 20261101 },
+    { "id": "917", "lib": "McLarenKartV3", "type": "fx", "revision": 20261101 },
+    { "id": "918", "lib": "WilliamsKartV3", "type": "fx", "revision": 20261101 },
+    { "id": "919", "lib": "FerrariKartV3", "type": "fx", "revision": 20261101 },
+    { "id": "920", "lib": "MercedesKartV3", "type": "fx", "revision": 20261101 },
+    { "id": "921", "lib": "AstonMartinKartV3", "type": "fx", "revision": 20261101 },
+    { "id": "922", "lib": "CadillacKartV1", "type": "fx", "revision": 20261101 },
+    { "id": "923", "lib": "AudiKartV1", "type": "fx", "revision": 20261101 },
+    { "id": "924", "lib": "HaasKartV1", "type": "fx", "revision": 20261101 },
+    { "id": "925", "lib": "AlpineKartV1", "type": "fx", "revision": 20261101 },
+    { "id": "926", "lib": "RacingBullsKartV1", "type": "fx", "revision": 20261101 }
   ]
 }

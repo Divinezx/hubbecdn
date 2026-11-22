@@ -682,6 +682,6 @@
     { "id": "924", "lib": "HaasKartV1", "type": "fx", "revision": 20261101 },
     { "id": "925", "lib": "AlpineKartV1", "type": "fx", "revision": 20261101 },
     { "id": "926", "lib": "RacingBullsKartV1", "type": "fx", "revision": 20261101 },
-    { "id": "927", "lib": "stark_swordfight_moves", "type": "fx", "revision": 20261121 }
+    { "id": "927", "lib": "stark_swordfight_moves", "type": "fx", "revision": 20261122 }
   ]
 }
